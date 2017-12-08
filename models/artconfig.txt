@@ -1,0 +1,48 @@
+# Skins Cutscenes OK
+AddCharModel(3, 20003, "skins/cutscenes/c_bdup.dff", "skins/cutscenes/c_bdup.txd");
+AddCharModel(4, 20004, "skins/cutscenes/c_dope.dff", "skins/cutscenes/c_dope.txd");
+AddCharModel(5, 20005, "skins/cutscenes/c_farlie.dff", "skins/cutscenes/c_farlie.txd");
+AddCharModel(6, 20006, "skins/cutscenes/c_jose.dff", "skins/cutscenes/c_jose.txd");
+AddCharModel(8, 20007, "skins/cutscenes/c_kendl.dff", "skins/cutscenes/c_kendl.txd");
+AddCharModel(42, 20008, "skins/cutscenes/c_oglocburger.dff", "skins/cutscenes/c_oglocburger.txd");
+AddCharModel(65, 20009, "skins/cutscenes/c_plas1.dff", "skins/cutscenes/c_plas1.txd");
+AddCharModel(187, 20010, "skins/cutscenes/c_salvatore.dff", "skins/cutscenes/c_salvatore.txd");
+AddCharModel(50, 20011, "skins/cutscenes/csmech.dff", "skins/cutscenes/csmech.txd");
+AddCharModel(217, 20012, "skins/cutscenes/c_bogman.dff", "skins/cutscenes/c_bogman.txd");
+AddCharModel(37, 20013, "skins/cutscenes/c_jimmy.dff", "skins/cutscenes/c_jimmy.txd");
+AddCharModel(214, 20014, "skins/cutscenes/c_maria.dff", "skins/cutscenes/c_maria.txd");
+AddCharModel(190, 20015, "skins/cutscenes/c_bettina.dff", "skins/cutscenes/c_bettina.txd");
+AddCharModel(17, 20016, "skins/cutscenes/c_suit2.dff", "skins/cutscenes/c_suit2.txd");
+AddCharModel(59, 20017, "skins/cutscenes/c_texan1.dff", "skins/cutscenes/c_texan1.txd");
+AddCharModel(59, 20018, "skins/cutscenes/c_texan2.dff", "skins/cutscenes/c_texan2.txd");
+AddCharModel(69, 20019, "skins/cutscenes/c_slut.dff", "skins/cutscenes/c_slut.txd");
+AddCharModel(200, 20020, "skins/cutscenes/c_drug1.dff", "skins/cutscenes/c_drug1.txd");
+AddCharModel(205, 20021, "skins/cutscenes/c_burguer.dff", "skins/cutscenes/c_burguer.txd");
+AddCharModel(200, 20022, "skins/cutscenes/psycho.dff", "skins/cutscenes/psycho.txd");
+AddCharModel(106, 20023, "skins/cutscenes/fam4.dff", "skins/cutscenes/fam4.txd");
+AddCharModel(106, 20024, "skins/cutscenes/fam5.dff", "skins/cutscenes/fam5.txd");
+AddCharModel(0, 20025, "skins/cutscenes/c1_lilbil.dff", "skins/cutscenes/c1_lilbil.txd");
+AddCharModel(0, 20026, "skins/cutscenes/c2_lilbil.dff", "skins/cutscenes/c2_lilbil.txd");
+
+# Untag Cutscenes
+AddCharModel(1, 20027, 	"skins/cutscenes/untag/c_triadboss.dff","skins/cutscenes/untag/c_triadboss.txd");
+AddCharModel(1, 20028, 	"skins/cutscenes/untag/c_ho.dff", 		"skins/cutscenes/untag/c_ho.txd");
+AddCharModel(1, 20029, 	"skins/cutscenes/untag/c_helper1.dff", 	"skins/cutscenes/untag/c_helper1.txd");
+AddCharModel(1, 20030, 	"skins/cutscenes/untag/c_helper2.dff", 	"skins/cutscenes/untag/c_helper2.txd");
+AddCharModel(214, 20031,"skins/cutscenes/untag/c_dancea.dff", 	"skins/cutscenes/untag/c_dancea.txd");
+AddCharModel(214, 20032,"skins/cutscenes/untag/c_danceb.dff", 	"skins/cutscenes/untag/c_danceb.txd");
+AddCharModel(0, 20033, 	"skins/cutscenes/untag/c_blue2.dff", 	"skins/cutscenes/untag/c_blue2.txd");
+AddCharModel(190, 20034,"skins/cutscenes/untag/cspro1.dff", 	"skins/cutscenes/untag/cspro1.txd");
+
+# HotCoffe
+AddCharModel(190, 20100, "skins/cutscenes/hot/copgrl1.dff", "skins/cutscenes/hot/copgrl1.txd");
+AddCharModel(190, 20101, "skins/cutscenes/hot/copgrl2.dff", "skins/cutscenes/hot/copgrl2.txd");
+AddCharModel(194, 20102, "skins/cutscenes/hot/crogrl1.dff", "skins/cutscenes/hot/crogrl1.txd");
+AddCharModel(194, 20103, "skins/cutscenes/hot/crogrl2.dff", "skins/cutscenes/hot/crogrl2.txd");
+AddCharModel(195, 20104, "skins/cutscenes/hot/gangrl1.dff", "skins/cutscenes/hot/gangrl1.txd");
+AddCharModel(195, 20105, "skins/cutscenes/hot/gangrl2.dff", "skins/cutscenes/hot/gangrl2.txd");
+AddCharModel(191, 20106, "skins/cutscenes/hot/gungrl1.dff", "skins/cutscenes/hot/gungrl1.txd");
+AddCharModel(191, 20107, "skins/cutscenes/hot/gungrl2.dff", "skins/cutscenes/hot/gungrl2.txd");
+AddCharModel(192, 20108, "skins/cutscenes/hot/mecgrl1.dff", "skins/cutscenes/hot/mecgrl1.txd");
+AddCharModel(193, 20109, "skins/cutscenes/hot/nurgrl1.dff", "skins/cutscenes/hot/nurgrl1.txd");
+AddCharModel(193, 20110, "skins/cutscenes/hot/nurgrl2.dff", "skins/cutscenes/hot/nurgrl2.txd");
